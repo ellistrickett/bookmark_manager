@@ -5,6 +5,10 @@ As a user,
 so I can see my bookmarks,
 show me a list of bookmarks.
 
+As a user
+So I can store bookmark data for later retrieval
+I want to add a bookmark to Bookmark Manager
+
   ## bookmark_manager Database
 
   1.  Connect to psql
